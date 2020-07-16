@@ -179,6 +179,9 @@ a{
 .hd{
     height: 100vh;
 }
+.sw-7{
+    width: 9rem;
+}
 @media screen and (max-width: 1024px){
     .pr-6{
         padding-right: 0rem;
